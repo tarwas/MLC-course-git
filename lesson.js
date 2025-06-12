@@ -1,3 +1,3 @@
 function solve(){
-    console.log("first command");
+    console.log("second command");
 }
